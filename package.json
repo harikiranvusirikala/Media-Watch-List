@@ -1,5 +1,5 @@
 {
-  "name": "Media Watch List",
+  "name": "media-watch-list",
   "version": "1.0.0",
   "author": "Hari Kiran Vusirikala",
   "description": "This project is the repository for my Media Watch List project.",
@@ -38,7 +38,7 @@
     "codelyzer": "^6.0.0",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
-    "karma": "~5.2.0",
+    "karma": "^6.3.2",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage": "~2.0.3",
     "karma-jasmine": "~4.0.0",
